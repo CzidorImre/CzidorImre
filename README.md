@@ -23,6 +23,11 @@ Hungarian (native) · English (C1) · French (B2)
 **Find me**\
 [czidor.com](https://czidor.com) · [LinkedIn](https://www.linkedin.com/in/imre-andr%C3%A1s-czidor)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CzidorImre/CzidorImre/output/github-snake-dark.svg">
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/CzidorImre/CzidorImre/output/github-snake.svg" width="100%">
+</picture>
+
 <details>
 <summary><sub>psst</sub></summary>
 <br>
